@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yang-feng-yfeng
 - 🌱 I’m currently reading , and learning how to code in Kotlin.
-- Tech books I'm reading:
+- 📚 Tech books I'm reading:
   - 2023:
     - [Domain Driven Design](https://a.co/d/gmy5aVO)
     - [The Pragmatic Programmer](https://amzn.eu/d/a2FwRgx)
